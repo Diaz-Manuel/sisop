@@ -1,0 +1,7 @@
+*.o
+find
+pingpong
+primes
+xargs
+cp.dSYM/*
+ls.dSYM/*
